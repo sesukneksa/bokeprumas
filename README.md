@@ -1,2 +1,1 @@
-# bokeprumas
-bokeprumas
+# [bokeprumas](https://bokeprumas.pages.dev)
